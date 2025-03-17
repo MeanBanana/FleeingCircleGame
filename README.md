@@ -22,3 +22,14 @@ To run this game, you need to have the following:
 
 ```bash
 git clone https://github.com/MeanBanana/FleeingCircleGame.git
+```
+
+### 2. Locate and Comple
+
+```bash
+javac circle/game/circlegame/Main.java
+```
+
+## Contributing
+If you'd like to contribute to the game, feel free to fork the repository
+
