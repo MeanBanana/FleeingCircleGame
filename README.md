@@ -24,10 +24,11 @@ To run this game, you need to have the following:
 git clone https://github.com/MeanBanana/FleeingCircleGame.git
 ```
 
-### 2. Locate and Comple
+### 2. Locate and Compile
 
 ```bash
-javac circle/game/circlegame/Main.java
+cd Java\CircleGame\src\main\java\circle\game\circlegame
+javac Main.java
 ```
 
 ### 3. Run the game
