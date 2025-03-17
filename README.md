@@ -30,6 +30,12 @@ git clone https://github.com/MeanBanana/FleeingCircleGame.git
 javac circle/game/circlegame/Main.java
 ```
 
+### 3. Run the game
+
+```bash
+java circle.game.circlegame.Main
+```
+
 ## Contributing
 If you'd like to contribute to the game, feel free to fork the repository
 
