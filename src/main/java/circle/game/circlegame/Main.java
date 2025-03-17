@@ -65,7 +65,7 @@ public class Main extends Application {
 
             if (distToCircle < safeDistance && !gameWin) {
                 if (pauseTransition == null) {
-                    pauseTransition = new PauseTransition(Duration.millis(100)); // 0.5 seconds delay
+                    pauseTransition = new PauseTransition(Duration.millis(100));
                     pauseTransition.setOnFinished(event -> moveCircleToSafeLocation(sceneWidth, sceneHeight));
                 }
                 pauseTransition.playFromStart();
