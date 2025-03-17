@@ -27,7 +27,7 @@ git clone https://github.com/MeanBanana/FleeingCircleGame.git
 ### 2. Locate and Compile
 
 ```bash
-cd Java\CircleGame\src\main\java\circle\game\circlegame
+cd CircleGame\src\main\java\circle\game\circlegame
 javac Main.java
 ```
 
