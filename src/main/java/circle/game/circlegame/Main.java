@@ -23,7 +23,7 @@ public class Main extends Application {
     private PauseTransition pauseTransition;
     private double mouseX = 0;
     private double mouseY = 0;
-    private final double safeDistance = 150; // Minimum safe distance before circle flees
+    private final double safeDistance = 100; // Minimum safe distance before circle flees
 
     @Override
     public void start(Stage primaryStage) {
